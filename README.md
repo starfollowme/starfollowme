@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Open+Source+Enthusiast;Problem+Solver&font=Roboto&size=25&duration=3500&pause=500&center=true&width=500&height=50&color=58a6ff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Problem+Solver&font=Roboto&size=25&duration=3500&pause=500&center=true&width=500&height=50&color=58a6ff" alt="Typing SVG" />
 </div>
 
 ###

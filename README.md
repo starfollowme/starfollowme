@@ -63,39 +63,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Austin Austin">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Austin%20Austin&count=10" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/A Space for the Unbound: Original Soundtrack, Pt. 3">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=A%20Space%20for%20the%20Unbound:%20Original%20Soundtrack,%20Pt.%203&count=1&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/starfollowme/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/starfollowme/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###

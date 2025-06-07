@@ -1,0 +1,254 @@
+/* 3D Effects for GitHub Profile README */
+
+/* Add this CSS to your personal website that links to your GitHub profile */
+
+/* 3D Card Hover Effects */
+.github-card {
+    perspective: 1000px;
+    transition: transform 0.3s ease;
+  }
+  
+  .github-card:hover {
+    transform: rotateY(10deg) rotateX(10deg) scale(1.05);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+  }
+  
+  /* Floating Animation for Tech Stack Icons */
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+  
+  .tech-icon {
+    animation: float 3s ease-in-out infinite;
+    transition: transform 0.3s ease;
+  }
+  
+  .tech-icon:hover {
+    transform: scale(1.2) rotateZ(5deg);
+    filter: brightness(1.2);
+  }
+  
+  /* 3D Button Effects */
+  .social-button {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.3s ease;
+  }
+  
+  .social-button:hover {
+    transform: translateZ(10px) rotateX(15deg);
+  }
+  
+  .social-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1));
+    transform: translateZ(-5px);
+    border-radius: inherit;
+  }
+  
+  /* Glowing Text Effect */
+  .glow-text {
+    color: #fff;
+    text-shadow: 
+      0 0 5px #fff,
+      0 0 10px #fff,
+      0 0 15px #0073e6,
+      0 0 20px #0073e6,
+      0 0 35px #0073e6,
+      0 0 40px #0073e6;
+    animation: glow 2s ease-in-out infinite alternate;
+  }
+  
+  @keyframes glow {
+    from {
+      text-shadow: 
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 15px #0073e6,
+        0 0 20px #0073e6,
+        0 0 35px #0073e6,
+        0 0 40px #0073e6;
+    }
+    to {
+      text-shadow: 
+        0 0 2px #fff,
+        0 0 5px #fff,
+        0 0 10px #0073e6,
+        0 0 15px #0073e6,
+        0 0 25px #0073e6,
+        0 0 30px #0073e6;
+    }
+  }
+  
+  /* 3D Cube Animation for Code Blocks */
+  .code-cube {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+  }
+  
+  .code-cube pre {
+    transform: rotateX(0deg) rotateY(0deg);
+    transition: transform 0.5s ease;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  }
+  
+  .code-cube:hover pre {
+    transform: rotateX(5deg) rotateY(5deg) translateZ(20px);
+  }
+  
+  /* Particle Background Effect */
+  .particle-bg {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .particle-bg::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at 20% 50%, #120136 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, #000000 0%, transparent 50%),
+                radial-gradient(circle at 40% 80%, #0d1421 0%, transparent 50%);
+    animation: particleMove 20s ease-in-out infinite;
+  }
+  
+  @keyframes particleMove {
+    0%, 100% { transform: translate(0, 0) rotate(0deg); }
+    33% { transform: translate(30px, -30px) rotate(120deg); }
+    66% { transform: translate(-20px, 20px) rotate(240deg); }
+  }
+  
+  /* 3D Stats Cards */
+  .stats-card {
+    transform-style: preserve-3d;
+    transition: transform 0.6s ease;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  
+  .stats-card:hover {
+    transform: rotateY(15deg) rotateX(10deg) translateZ(30px);
+  }
+  
+  .stats-card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, 
+      rgba(255,255,255,0.1) 0%, 
+      transparent 50%, 
+      rgba(255,255,255,0.05) 100%);
+    pointer-events: none;
+  }
+  
+  /* Typing Animation Enhancement */
+  .typing-enhanced {
+    background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: gradientShift 4s ease infinite;
+  }
+  
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  /* Skill Bar 3D Effect */
+  .skill-bar {
+    position: relative;
+    background: #1a1a1a;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 20px;
+    margin: 10px 0;
+    transform-style: preserve-3d;
+  }
+  
+  .skill-progress {
+    height: 100%;
+    background: linear-gradient(45deg, #FF6B6B, #4ECDC4);
+    border-radius: 10px;
+    position: relative;
+    transform: translateZ(2px);
+    animation: skillGlow 2s ease-in-out infinite alternate;
+  }
+  
+  @keyframes skillGlow {
+    from { box-shadow: 0 0 10px rgba(78, 205, 196, 0.5); }
+    to { box-shadow: 0 0 20px rgba(78, 205, 196, 0.8); }
+  }
+  
+  /* GitHub Contribution Graph 3D Enhancement */
+  .contribution-3d {
+    filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));
+    transition: transform 0.3s ease;
+  }
+  
+  .contribution-3d:hover {
+    transform: perspective(1000px) rotateX(10deg);
+  }
+  
+  /* Profile Avatar 3D Effect */
+  .avatar-3d {
+    border-radius: 50%;
+    transition: transform 0.5s ease;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+  }
+  
+  .avatar-3d:hover {
+    transform: rotateY(180deg) scale(1.1);
+  }
+  
+  /* Footer Wave 3D Effect */
+  .wave-3d {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .wave-3d::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1));
+    transform: skewY(-3deg);
+    animation: waveMove 8s ease-in-out infinite;
+  }
+  
+  @keyframes waveMove {
+    0%, 100% { transform: skewY(-3deg) translateX(0); }
+    50% { transform: skewY(3deg) translateX(50px); }
+  }
+  
+  /* Responsive 3D Effects */
+  @media (max-width: 768px) {
+    .github-card:hover {
+      transform: scale(1.02);
+    }
+    
+    .stats-card:hover {
+      transform: translateZ(10px);
+    }
+    
+    .tech-icon:hover {
+      transform: scale(1.1);
+    }
+  }

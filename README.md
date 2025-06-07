@@ -3,16 +3,16 @@
   <!-- 3D Animated Wave Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=22&descAlignY=55&rotate=2" alt="3D Header" />
   
-  <!-- Enhanced Typing Animation with 3D effect -->
-  <div style="perspective: 1000px; transform-style: preserve-3d;">
+  <!-- Enhanced Typing Animation -->
+  <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🌟+Open+Source+Enthusiast;💡+Always+Learning+New+Things;🎨+UI%2FUX+Designer;⚡+Performance+Optimizer" alt="3D Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🌟+Open+Source+Enthusiast;💡+Always+Learning+New+Things;🎨+UI%2FUX+Designer;⚡+Performance+Optimizer" alt="Typing SVG" />
     </a>
   </div>
   
   <br>
   
-  <!-- 3D Floating Cards Effect -->
+  <!-- Status Badges -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/🔥-Passionate%20Coder-FF6B6B?style=for-the-badge&logoColor=white" alt="Passionate" />
     <img src="https://img.shields.io/badge/⚡-Fast%20Learner-4ECDC4?style=for-the-badge&logoColor=white" alt="Fast Learner" />
@@ -21,7 +21,7 @@
   
   <br><br>
   
-  <!-- Enhanced About Me Section with 3D Code Block -->
+  <!-- About Me Section -->
   <details open>
   <summary><h2>🚀 About Me</h2></summary>
   <br>
@@ -48,7 +48,7 @@
     databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Supabase"],
     currentFocus: "Building the future with innovative solutions 🚀",
     hobbies: ["🎮 Gaming", "📚 Reading", "🎵 Music", "✈️ Traveling"],
-    funFact: "I can debug code faster than I can untangle headphones! 🎧"
+    funFact: "I can debug code faster than Google can load! 🚀"
   };
 
   // Life motto
@@ -58,94 +58,79 @@
   
   <br>
   
-  <!-- 3D Tech Stack Section -->
+  <!-- Tech Stack Section -->
   <h2>💻 Tech Arsenal</h2>
   
-  <!-- Languages with 3D effect -->
+  <!-- Languages -->
   <h3>🔤 Languages</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=ts,js,python,rust,php,go,java,cpp" alt="Languages" />
   </div>
   
-  <!-- Frontend with 3D effect -->
+  <!-- Frontend -->
   <h3>🎨 Frontend</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,sass,html,css" alt="Frontend" />
   </div>
   
-  <!-- Backend with 3D effect -->
+  <!-- Backend -->
   <h3>⚙️ Backend</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,django,fastapi,express,graphql,prisma" alt="Backend" />
   </div>
   
-  <!-- Cloud & DevOps with 3D effect -->
+  <!-- Cloud & DevOps -->
   <h3>☁️ Cloud & DevOps</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,github" alt="Cloud & DevOps" />
   </div>
   
-  <!-- Databases with 3D effect -->
+  <!-- Databases -->
   <h3>🗄️ Databases</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite,supabase,firebase" alt="Databases" />
   </div>
   
-  <!-- Tools with 3D effect -->
+  <!-- Tools -->
   <h3>🛠️ Tools</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,figma,photoshop,postman,notion,discord,linux" alt="Tools" />
   </div>
   
   <br>
   
-  <!-- Enhanced GitHub Stats with 3D Cards -->
+  <!-- GitHub Stats -->
   <h2>📊 GitHub Analytics</h2>
   
-  <!-- Main Stats Row -->
+  <!-- Replace 'yourusername' with your actual GitHub username -->
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=starfollowme&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=starfollowme&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&border_radius=15" alt="GitHub Streak" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&border_radius=15" alt="GitHub Streak" />
   </p>
   
-  <!-- Languages and Activity -->
+  <!-- Languages Stats -->
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfollowme&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=12&border_radius=15" alt="Top Languages" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=starfollowme&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=15" alt="Coding Time" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=12&border_radius=15" alt="Top Languages" />
   </p>
   
-  <!-- 3D Contribution Graph -->
+  <!-- Contribution Graph -->
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&theme=high-contrast&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&area_color=4ECDC4&border_radius=15" width="100%" alt="3D Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=high-contrast&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&area_color=4ECDC4&border_radius=15" width="100%" alt="Contribution Graph" />
   
   <br><br>
   
-  <!-- 3D Trophies -->
+  <!-- GitHub Trophies -->
   <h2>🏆 GitHub Trophies</h2>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=starfollowme&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
   </p>
   
   <br>
   
-  <!-- Enhanced Projects Showcase -->
-  <h2>🌟 Featured Projects</h2>
-  
-  <div align="center">
-    <a href="https://github.com/starfollowme/awesome-project-1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=starfollowme&repo=awesome-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=15" alt="Project 1" />
-    </a>
-    <a href="https://github.com/starfollowme/awesome-project-2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=starfollowme&repo=awesome-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=15" alt="Project 2" />
-    </a>
-  </div>
-  
-  <br>
-  
-  <!-- 3D Connect Section -->
+  <!-- Connect Section -->
   <h2>🤝 Let's Connect & Collaborate!</h2>
   
-  <!-- Social Links with Hover Effects -->
+  <!-- Replace with your actual social media links -->
   <p align="center">
     <a href="https://linkedin.com/in/yourusername">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn" />
@@ -153,16 +138,10 @@
     <a href="https://twitter.com/yourusername">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&border_radius=10" alt="Twitter" />
     </a>
-    <a href="https://discord.com/users/youruserid">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&border_radius=10" alt="Discord" />
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" alt="Email" />
     </a>
-    <a href="https://twitch.tv/yourusername">
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&border_radius=10" alt="Twitch" />
-    </a>
-    <a href="https://dev.to/yourusername">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&border_radius=10" alt="Dev.to" />
-    </a>
-    <a href="https://portfolio.yourdomain.com">
+    <a href="https://yourportfolio.com">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&border_radius=10" alt="Portfolio" />
     </a>
   </p>
@@ -173,25 +152,15 @@
   <h2>📈 Fun Metrics</h2>
   
   <div align="center">
-    <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-brown?style=for-the-badge&logo=coffee&logoColor=white&border_radius=10" alt="Coffee" />
-    <img src="https://img.shields.io/badge/Lines%20of%20Code-1M+-blue?style=for-the-badge&logo=code&logoColor=white&border_radius=10" alt="Lines of Code" />
-    <img src="https://img.shields.io/badge/Bugs%20Fixed-999+-green?style=for-the-badge&logo=bug&logoColor=white&border_radius=10" alt="Bugs Fixed" />
-    <img src="https://img.shields.io/badge/Commits-5000+-orange?style=for-the-badge&logo=git&logoColor=white&border_radius=10" alt="Commits" />
+    <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white&border_radius=10" alt="Coffee" />
+    <img src="https://img.shields.io/badge/Lines%20of%20Code-1M+-00D9FF?style=for-the-badge&logo=code&logoColor=white&border_radius=10" alt="Lines of Code" />
+    <img src="https://img.shields.io/badge/Bugs%20Fixed-999+-00C851?style=for-the-badge&logo=checkmarx&logoColor=white&border_radius=10" alt="Bugs Fixed" />
+    <img src="https://img.shields.io/badge/Commits-5000+-FF8800?style=for-the-badge&logo=git&logoColor=white&border_radius=10" alt="Commits" />
   </div>
   
   <br>
   
-  <!-- Currently Playing Spotify -->
-  <h2>🎵 Currently Vibing To</h2>
-  <div align="center">
-  <a href="https://open.spotify.com/user/31viym56uyp5aaghzgn3ctypb4ny">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31viym56uyp5aaghzgn3ctypb4ny&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-  
-  <br>
-  
-  <!-- Coding Quote -->
+  <!-- Daily Inspiration -->
   <h2>💭 Daily Inspiration</h2>
   <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_radius=15" alt="Coding Quote" />
@@ -199,21 +168,18 @@
   
   <br>
   
-  <!-- Enhanced Snake Animation -->
-  <h2>🐍 Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starfollowme/starfollowme/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starfollowme/starfollowme/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/starfollowme/starfollowme/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Pacman Game Animation -->
+  <h2>🎮 Contribution Pacman</h2>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pacman eating contributions" />
+  </div>
   
   <br><br>
   
-  <!-- Enhanced Footer with Stats -->
+  <!-- Footer Stats -->
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=starfollowme&label=Profile%20Views&color=FF6B6B&style=for-the-badge&border_radius=15" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/starfollowme?label=Followers&style=for-the-badge&color=4ECDC4&border_radius=15" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/starfollowme?label=Total%20Stars&style=for-the-badge&color=FFD93D&border_radius=15" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=FF6B6B&style=for-the-badge&border_radius=15" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=4ECDC4&border_radius=15" alt="Followers" />
   </div>
   
   <br>
@@ -224,25 +190,7 @@
     <em>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration!</em>
   </p>
   
-  <!-- 3D Footer Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer&animation=fadeIn" alt="3D Footer" />
+  <!-- Footer Wave -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer&animation=fadeIn" alt="Footer" />
   
 </div>
-
-<!-- Achievement Badges (Hidden but indexed) -->
-<!--
-🏆 Achievements:
-- 🌟 1000+ GitHub Stars
-- 💼 5+ Years Experience
-- 🚀 10+ Major Projects
-- 👥 500+ Connections
-- 📝 100+ Contributions
-- 💡 Open Source Advocate
--->
-
-<!-- Keywords for GitHub Discovery -->
-<!--
-Full Stack Developer, TypeScript, Python, Rust, PHP, React, Next.js, Laravel, 
-AWS, Cloud Computing, Open Source, Web Development, Mobile Development, 
-DevOps, UI/UX Design, Database Design, API Development, Microservices
--->

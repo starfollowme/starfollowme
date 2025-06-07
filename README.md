@@ -68,6 +68,14 @@
 
 ###
 
+## 🏆 GitHub Contributor Stats
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=starfollowme&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</div>
+
+###
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -111,8 +119,8 @@
 ###
 
 <div align="center">
-  <h3>💭 Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
+  <h3>💭 Quote by Albert Einstein</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Imagination+is+more+important+than+knowledge.+For+knowledge+is+limited,+whereas+imagination+embraces+the+entire+world.&author=Albert+Einstein" alt="Einstein Quote"/>
 </div>
 
 ###

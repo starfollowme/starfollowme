@@ -95,7 +95,6 @@ const developer = {
         <br>Docker
       </td>
       <td align="center" width="96">
-@@ -100,111 +100,111 @@
         <br>Flutter
       </td>
       <td align="center" width="96">

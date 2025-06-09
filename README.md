@@ -69,7 +69,6 @@ const developer = {
         <br />Next.js
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="50" height="50" alt="Tailwind CSS" />
         <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" />
         <br />Tailwind CSS
       </td>
@@ -96,18 +95,17 @@ const developer = {
         <br />Docker
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="50" height="50" alt="Flutter" />
         <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter" />
         <br />Flutter
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="Git" />
         <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
         <br />Git
       </td>
     </tr>
   </table>
 </div>
+
 
 ## 📊 GitHub Analytics
 

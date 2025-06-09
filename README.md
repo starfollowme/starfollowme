@@ -1,5 +1,5 @@
-<div align="center">More actions
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Hey%20There!%20I'm%20Irham%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20into%20Reality%20with%20Code&descAlignY=55&descAlign=50" alt="Header" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Hey%20There!%20I'm%20a%20Full-Stack%20Developer%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20into%20Reality%20with%20Code&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
@@ -26,13 +26,13 @@
 
 ```typescript
 const developer = {
-    name: "Irham",
+    name: "Your Name",
     role: "Full-Stack Developer",
-    location: "Jakarta, Indonesia",
-
+    location: "🌍 Earth",
+    
     currentWork: "Building awesome full-stack applications",
     learning: ["Advanced Rust", "Cloud Architecture", "Web3"],
-
+    
     techStack: {
         frontend: ["TypeScript", "Next.js", "React", "Tailwind CSS"],
         backend: ["Rust", "Python", "PHP", "Laravel"],
@@ -40,7 +40,7 @@ const developer = {
         cloud: ["AWS", "Docker", "Kubernetes"],
         databases: ["PostgreSQL", "MongoDB", "Redis"]
     },
-
+    
     askMeAbout: ["Web Dev", "Tech", "Coffee", "Space"],
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
@@ -55,45 +55,53 @@ const developer = {
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
-        <br />TypeScript
+        <br>TypeScript
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
-        <br />React
+        <br>React
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
-        <br />Next.js
+        <br>Next.js
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65" />
-        <br />Tailwind CSS
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+        <br>Tailwind
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
-        <br />Python
+        <br>Python
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" />
-        <br />Rust
+        <br>Rust
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
-        <br />AWS
+        <br>AWS
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
-        <br />Docker
+        <br>Docker
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />
-        <br />Flutter
+        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+        <br>PHP
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
+        <br>Flutter
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
-        <br />Git
+        <br>Git
       </td>
     </tr>
   </table>
@@ -102,20 +110,24 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=starfollowme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=starfollowme&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=starfollowme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=starfollowme&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=starfollowme&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3" alt="starfollowme" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=starfollowme&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=starfollowme&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophy" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎯 Current Focus
@@ -132,7 +144,7 @@ const developer = {
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Collaborating-Open%20Source-blue?style=for-the-badge&logo=github&logoColor=white" alt="Collaborating" />
+        <img src="https://img.shields.io/badge/Collaborating-Open%20Source-blue?style=for-the-badge&logo=github&logoColor=white" alt="Collab" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Building-Amazing%20Projects-purple?style=for-the-badge&logo=rocket&logoColor=white" alt="Building" />
@@ -148,7 +160,7 @@ const developer = {
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://discord.com/users/your-id">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -165,24 +177,24 @@ const developer = {
 
 <div align="center">
   <a href="https://open.spotify.com/user/31viym56uyp5aaghzgn3ctypb4ny">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31viym56uyp5aaghzgn3ctypb4ny&count=3&unique=true" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31viym56uyp5aaghzgn3ctypb4ny&count=3&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ## 💰 Support My Work
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <a href="https://github.com/sponsors/yourusername">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA" alt="GitHub Sponsor" />
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsor" />
   </a>
 </div>
 

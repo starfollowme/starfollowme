@@ -24,19 +24,30 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Pacman GIF" />
+  <br>
+  <h1>🟡 ᗧ••••• 👻 👻 👻 👻</h1>
+  <h2>WAKKA WAKKA WAKKA!</h2>
 </div>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ```typescript
+//     🟡 ᗧ••••••••••••••••••••••••••••••••••••• 👻
+//     PAC-MAN DEVELOPER PROFILE LOADING...
+//     ••••••••••••••••••••••••••••••••••••••••••••
+
 const pacmanDeveloper = {
-    name: "Code Chomper",
+    name: "🟡 Code Chomper",
     role: "Full-Stack Pac-Developer",
     location: "🟡 The Digital Maze",
+    lives: 3,
+    score: 999999,
+    level: "Expert",
     
-    currentMission: "Chomping through code mazes and collecting achievements",
-    powerUps: ["Advanced Rust", "Cloud Pellets", "Web3 Fruits"],
+    currentMission: "ᗧ Chomping through code mazes and collecting achievements",
+    powerUps: ["Advanced Rust 🔴", "Cloud Pellets ☁️", "Web3 Fruits 🍎"],
     
+    // 🟡 ᗧ••••• TECH MAZE LAYOUT •••••👻
     techMaze: {
         frontend: ["TypeScript 🟡", "Next.js 🔵", "React 🟢", "Tailwind CSS 🟠"],
         backend: ["Rust 🔴", "Python 🟡", "PHP 🟣", "Laravel 🟠"],
@@ -45,9 +56,20 @@ const pacmanDeveloper = {
         databases: ["PostgreSQL 🐘", "MongoDB 🍃", "Redis 🔴"]
     },
     
-    askMeAbout: ["Maze Navigation", "Ghost Debugging", "Power Pellet Optimization"],
-    funFact: "I eat bugs for breakfast and turn them into features! 🟡👻"
+    // 👻 GHOST TYPES IN MY CODE
+    ghosts: {
+        blinky: "Red Bugs 🔴", 
+        pinky: "Pink Logic Errors 🩷",
+        inky: "Blue Performance Issues 🔵", 
+        clyde: "Orange Merge Conflicts 🟠"
+    },
+    
+    askMeAbout: ["🟡 Maze Navigation", "👻 Ghost Debugging", "• Power Pellet Optimization"],
+    funFact: "I eat bugs for breakfast and turn them into features! 🟡👻",
+    motto: "WAKKA WAKKA WAKKA! 🟡 ᗧ•••••"
 };
+
+// 🟡 ᗧ••••••••••••••••••••••••••••••••••••••••••••••👻
 ```
 
 <br clear="right"/>
@@ -76,59 +98,81 @@ const pacmanDeveloper = {
 </div>
 
 ## 🟡 Power-Up Tech Stack
+### ᗧ••••••••••••••••••••••••••••••••••••••••••••••👻
 
 <div align="center">
+  <h3>🟡 LEVEL 1: FRONTEND MAZE</h3>
+  <p>🟡 ᗧ•••• 🔵•• 🟢••• 🟠••••</p>
+  
   <table>
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
         <br>🟡 TypeScript
+        <br><sub>ᗧ••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
         <br>🔵 React
+        <br><sub>••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
         <br>⚫ Next.js
+        <br><sub>••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
         <br>🔵 Tailwind
+        <br><sub>••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
         <br>🟡 Python
+        <br><sub>••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" />
         <br>🔴 Rust
+        <br><sub>👻</sub>
       </td>
     </tr>
+  </table>
+  
+  <h3>🟡 LEVEL 2: BACKEND MAZE</h3>
+  <p>👻 •••• ᗧ 🟡••• 🔵•• 🟠•••• 🟣••</p>
+  
+  <table>
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
         <br>☁️ AWS
+        <br><sub>••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
         <br>🔵 Docker
+        <br><sub>ᗧ•••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
         <br>🔴 Laravel
+        <br><sub>••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
         <br>🟣 PHP
+        <br><sub>••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
         <br>🔵 Flutter
+        <br><sub>••••</sub>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
         <br>🟠 Git
+        <br><sub>••••👻</sub>
       </td>
     </tr>
   </table>
@@ -258,9 +302,21 @@ const pacmanDeveloper = {
 </div>
 
 <div align="center">
-  <b>GAME OVER... or is it? Thanks for playing! 🟡👻</b>
+  <br><br>
+  <h2>🟡 ᗧ••••••••••••••••••••••••••••••••••••••••••••••👻</h2>
+  <h3>GAME OVER... or is it? Thanks for playing! 🟡👻</h3>
+  <h4>WAKKA WAKKA WAKKA!</h4>
+  <br>
+  <div style="font-family: monospace; font-size: 18px; line-height: 1.2;">
+    🟡 ᗧ•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••👻<br>
+    •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<br>
+    •&nbsp;&nbsp;THANKS&nbsp;FOR&nbsp;VISITING&nbsp;MY&nbsp;CODE&nbsp;MAZE!&nbsp;&nbsp;•<br>
+    •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•<br>
+    •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••<br>
+  </div>
   <br>
   <i>⭐ From <a href="https://github.com/starfollowme">starfollowme</a> with 💛 WAKKA WAKKA!</i>
   <br><br>
   <img src="https://media.giphy.com/media/hVTouq08miyVo1a21m/giphy.gif" width="120" alt="Pacman" />
+  <img src="https://media.giphy.com/media/l0HlO3BJ8LALPW4C4/giphy.gif" width="120" alt="Pacman eating" />
 </div>

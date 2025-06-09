@@ -50,61 +50,9 @@ const developer = {
 
 ## 💻 Tech Stack & Tools
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript" />
-        <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
-        <br />TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React" />
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
-        <br />React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="50" height="50" alt="Next.js" />
-        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
-        <br />Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" />
-        <br />Tailwind CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
-        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
-        <br />Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/rust-icon.svg" width="50" height="50" alt="Rust" />
-        <img src="https://skillicons.dev/icons?i=rust" width="50" height="50" alt="Rust" />
-        <br />Rust
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
-        <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS" />
-        <br />AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
-        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-        <br />Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter" />
-        <br />Flutter
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-        <br />Git
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center"> <table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" /> <br />TypeScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" /> <br />React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" /> <br />Next.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65" /> <br />Tailwind CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" /> <br />Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" /> <br />Rust </td> </tr> <!-- Baris ke-2 tetap --> </table> </div>
+
+
 
 
 ## 📊 GitHub Analytics

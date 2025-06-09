@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">More actions
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Hey%20There!%20I'm%20a%20Full-Stack%20Developer%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20into%20Reality%20with%20Code&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
@@ -29,10 +29,10 @@ const developer = {
     name: "Your Name",
     role: "Full-Stack Developer",
     location: "🌍 Earth",
-    
+
     currentWork: "Building awesome full-stack applications",
     learning: ["Advanced Rust", "Cloud Architecture", "Web3"],
-    
+
     techStack: {
         frontend: ["TypeScript", "Next.js", "React", "Tailwind CSS"],
         backend: ["Rust", "Python", "PHP", "Laravel"],
@@ -40,7 +40,7 @@ const developer = {
         cloud: ["AWS", "Docker", "Kubernetes"],
         databases: ["PostgreSQL", "MongoDB", "Redis"]
     },
-    
+
     askMeAbout: ["Web Dev", "Tech", "Coffee", "Space"],
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
@@ -54,14 +54,17 @@ const developer = {
   <table>
     <tr>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
         <br>TypeScript
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
         <br>React
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65" />
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
         <br>Next.js
       </td>
@@ -70,36 +73,33 @@ const developer = {
         <br>Tailwind
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
         <br>Python
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65" />
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" />
         <br>Rust
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
         <br>AWS
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
         <br>Docker
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
-        <br>Laravel
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
+@@ -100,111 +100,111 @@
         <br>Flutter
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
         <br>Git
       </td>
@@ -208,4 +208,3 @@ const developer = {
   <b>Thanks for visiting my profile! Have a great day! 😊</b>
   <br>
   <i>⭐ From <a href="https://github.com/starfollowme">starfollowme</a> with 💙</i>
-</div>

@@ -54,15 +54,15 @@ const developer = {
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
         <br>Next.js
       </td>
       <td align="center" width="96">
@@ -70,21 +70,21 @@ const developer = {
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust" />
         <br>Rust
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
         <br>AWS
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
         <br>Docker
       </td>
       <td align="center" width="96">
@@ -100,7 +100,7 @@ const developer = {
         <br>Flutter
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
         <br>Git
       </td>
     </tr>
@@ -129,6 +129,22 @@ const developer = {
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
+
+## 🎮 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starfollowme/starfollowme/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starfollowme/starfollowme/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/starfollowme/starfollowme/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 🎯 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starfollowme/starfollowme/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starfollowme/starfollowme/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/starfollowme/starfollowme/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🎯 Current Focus
 
@@ -184,7 +200,8 @@ const developer = {
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <h3>💭 Quote by Albert Einstein</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Imagination+is+more+important+than+knowledge.+For+knowledge+is+limited,+whereas+imagination+embraces+the+entire+world.&author=Albert+Einstein" alt="Einstein Quote"/>
 </div>
 
 ## 💰 Support My Work

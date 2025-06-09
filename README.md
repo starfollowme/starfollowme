@@ -51,88 +51,81 @@ const developer = {
 ## 💻 Tech Stack & Tools
 
 <div align="center">
-  <table style="border: none;">
+  <table>
     <tr>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #3178C6;">TypeScript</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #61DAFB;">React</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
+        <br>React
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #000000;">Next.js</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+        <br>Next.js
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #06B6D4;">Tailwind</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+        <br>Tailwind
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #3776AB;">Python</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
+        <br>Python
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #CE422B;">Rust</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" />
+        <br>Rust
       </td>
     </tr>
     <tr>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #FF9900;">AWS</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
+        <br>AWS
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #2496ED;">Docker</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
+        <br>Docker
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #FF2D20;">Laravel</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+        <br>Laravel
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #777BB4;">PHP</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+        <br>PHP
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #02569B;">Flutter</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
+        <br>Flutter
       </td>
-      <td align="center" width="96" style="border: none;">
-        <a href="#" style="text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-        </a>
-        <br><strong style="color: #F05032;">Git</strong>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+        <br>Git
       </td>
     </tr>
   </table>
 </div>
 
+### 🔥 Animated Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,python,rust,aws,docker,laravel,php,flutter,git&theme=dark&perline=6" alt="Tech Stack" />
+</div>
+
+### ⚡ Additional Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ## 📊 GitHub Analytics

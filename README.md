@@ -54,15 +54,15 @@ const developer = {
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
         <br>Next.js
       </td>
       <td align="center" width="96">
@@ -70,21 +70,21 @@ const developer = {
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" />
         <br>Rust
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
         <br>AWS
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
         <br>Docker
       </td>
       <td align="center" width="96">
@@ -100,7 +100,7 @@ const developer = {
         <br>Flutter
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
         <br>Git
       </td>
     </tr>

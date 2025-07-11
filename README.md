@@ -173,13 +173,7 @@ const developer = {
   </a>
 </div>
 
-## 🎵 Vibing to Spotify
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31viym56uyp5aaghzgn3ctypb4ny">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31viym56uyp5aaghzgn3ctypb4ny&count=3&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
 
 ## 💭 Quote of the Day
 

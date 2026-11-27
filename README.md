@@ -1,20 +1,20 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Hey%20There!%20I'm%20a%20Full-Stack%20Developer%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20into%20Reality%20with%20Code&descAlignY=55&descAlign=50" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=240&section=header&text=Muhammad%20Irham%20Bachtiar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Bandung%2C%20Indonesia&descAlignY=58&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💻;Problem+Solver+🧩;Open+Source+Enthusiast+🌟;Continuous+Learner+📚;Tech+Explorer+🚀&font=Fira+Code&size=32&duration=4000&pause=1000&center=true&vCenter=true&width=800&height=70&color=58a6ff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+Muhammad+Irham+Bachtiar!;Full-Stack+Web+%26+Mobile+Developer;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+Flutter+%E2%80%A2+Kotlin;Building+Clean+%26+Practical+Software&font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=760&height=55&color=7AA2F7" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=starfollowme&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/starfollowme">
+    <img src="https://komarev.com/ghpvc/?username=starfollowme&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/followers/starfollowme?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
+  <a href="https://github.com/starfollowme?tab=followers">
+    <img src="https://img.shields.io/github/followers/starfollowme?style=for-the-badge&color=bb9af7&label=FOLLOWERS" alt="Followers" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/starfollowme?style=for-the-badge&color=yellow&label=STARS" alt="Stars" />
+  <a href="https://github.com/starfollowme?tab=repositories">
+    <img src="https://img.shields.io/github/stars/starfollowme?style=for-the-badge&color=e0af68&label=STARS" alt="Stars" />
   </a>
 </div>
 
@@ -22,172 +22,89 @@
 
 ## 🚀 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ```typescript
 const developer = {
-    name: "Your Name",
-    role: "Full-Stack Developer",
-    location: "🌍 Earth",
-    
-    currentWork: "Building awesome full-stack applications",
-    learning: ["Advanced Rust", "Cloud Architecture", "Web3"],
-    
-    techStack: {
-        frontend: ["TypeScript", "Next.js", "React", "Tailwind CSS"],
-        backend: ["Rust", "Python", "PHP", "Laravel"],
-        mobile: ["Flutter", "React Native"],
-        cloud: ["AWS", "Docker", "Kubernetes"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"]
-    },
-    
-    askMeAbout: ["Web Dev", "Tech", "Coffee", "Space"],
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+  name: "Muhammad Irham Bachtiar",
+  handle: "@starfollowme",
+  location: "Bandung, Indonesia 🇮🇩",
+  role: "Full-Stack Web & Mobile Developer",
+  techStack: {
+    frontend: ["TypeScript", "Next.js", "React", "Tailwind CSS"],
+    backend: ["PHP", "Laravel", "JavaScript"],
+    mobile: ["Flutter", "Kotlin"],
+  },
+  focus: "Building practical web & mobile applications",
 };
 ```
 
-<br clear="right"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starfollowme/starfollowme/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starfollowme/starfollowme/output/pacman-contribution-graph.svg" />
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/starfollowme/starfollowme/output/pacman-contribution-graph-dark.svg" />
+  </picture>
+</div>
+
+---
 
 ## 💻 Tech Stack & Tools
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" />
-        <br>Rust
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
-        <br>Laravel
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
-        <br>Flutter
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
-        <br>Git
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,laravel,flutter,kotlin,mysql,git,vscode&perline=6" alt="Tech Stack" />
 </div>
+
+---
+
+## 🛠️ Featured Repositories
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| [**project-akhir**](https://github.com/starfollowme/project-akhir) | `TypeScript` | Final project built with TypeScript |
+| [**kotlin-lms**](https://github.com/starfollowme/kotlin-lms) | `Kotlin` | Learning Management System mobile app |
+| [**absen-flutter**](https://github.com/starfollowme/absen-flutter) | `Flutter` / `Dart` | Mobile attendance client app |
+| [**laravel-absensi**](https://github.com/starfollowme/laravel-absensi) | `Laravel` / `Blade` | Web-based attendance management system |
+| [**perpustakaan**](https://github.com/starfollowme/perpustakaan) | `Laravel` / `Blade` | Library management web application |
+| [**market01**](https://github.com/starfollowme/market01) | `JavaScript` | E-commerce / marketplace web project |
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=starfollowme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=starfollowme&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=starfollowme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfollowme&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=starfollowme&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3" alt="starfollowme" />
+  <img width="88%" src="https://streak-stats.demolab.com/?user=starfollowme&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 </div>
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=starfollowme&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophy" />
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Learning-Rust%20%26%20Cloud-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Learning" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Collaborating-Open%20Source-blue?style=for-the-badge&logo=github&logoColor=white" alt="Collab" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Building-Amazing%20Projects-purple?style=for-the-badge&logo=rocket&logoColor=white" alt="Building" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌐 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.com/users/your-id">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://dev.to/your-profile">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-
+---
 
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" alt="Footer" />
+  <a href="https://github.com/starfollowme">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:irhammuhamad124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <div align="center">
-  <b>Thanks for visiting my profile! Have a great day! 😊</b>
-  <br>
-  <i>⭐ From <a href="https://github.com/starfollowme">starfollowme</a> with 💙</i>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=100&section=footer" alt="Footer" />
+  <sub>⭐ From <a href="https://github.com/starfollowme">Muhammad Irham Bachtiar (@starfollowme)</a></sub>
 </div>

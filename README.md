@@ -123,14 +123,14 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=starfollowme&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_color=30363d&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=starfollowme&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1e293b&text_color=475569&icon_color=2563eb&border_color=e2e8f0&border_radius=10" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=starfollowme&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1e293b&text_color=475569&icon_color=2563eb&border_color=e2e8f0&border_radius=10" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=starfollowme&show_icons=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_color=30363d&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=starfollowme&show_icons=true&count_private=true&rank_icon=github&bg_color=ffffff&title_color=1e293b&text_color=475569&icon_color=2563eb&border_color=e2e8f0&border_radius=10" />
+    <img width="56%" src="https://github-readme-stats.vercel.app/api?username=starfollowme&show_icons=true&count_private=true&rank_icon=github&bg_color=ffffff&title_color=1e293b&text_color=475569&icon_color=2563eb&border_color=e2e8f0&border_radius=10" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=starfollowme&layout=compact&langs_count=8&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_color=30363d&border_radius=10" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=starfollowme&layout=compact&langs_count=8&bg_color=ffffff&title_color=1e293b&text_color=475569&border_color=e2e8f0&border_radius=10" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfollowme&layout=compact&langs_count=8&bg_color=ffffff&title_color=1e293b&text_color=475569&border_color=e2e8f0&border_radius=10" alt="Top Languages" />
+    <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfollowme&layout=compact&langs_count=8&bg_color=ffffff&title_color=1e293b&text_color=475569&border_color=e2e8f0&border_radius=10" alt="Top Languages" />
   </picture>
 </div>
 
@@ -138,7 +138,12 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=starfollowme&background=0d1117&border=30363d&border_radius=10&stroke=30363d&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=starfollowme&background=ffffff&border=e2e8f0&border_radius=10&stroke=e2e8f0&ring=2563eb&fire=7c3aed&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=2563eb&sideLabels=475569&dates=64748b" />
-    <img width="88%" src="https://streak-stats.demolab.com/?user=starfollowme&background=ffffff&border=e2e8f0&border_radius=10&stroke=e2e8f0&ring=2563eb&fire=7c3aed&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=2563eb&sideLabels=475569&dates=64748b" alt="GitHub Streak" />
+    <img width="56%" src="https://streak-stats.demolab.com/?user=starfollowme&background=ffffff&border=e2e8f0&border_radius=10&stroke=e2e8f0&ring=2563eb&fire=7c3aed&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=2563eb&sideLabels=475569&dates=64748b" alt="GitHub Streak" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starfollowme&theme=tokyonight&utcOffset=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starfollowme&theme=default&utcOffset=7" />
+    <img width="37.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starfollowme&theme=default&utcOffset=7" alt="Productive Time" />
   </picture>
 </div>
 
@@ -146,7 +151,7 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=0d1117&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&area_color=3b82f6&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=ffffff&color=1e293b&line=2563eb&point=7c3aed&area=true&area_color=93c5fd&hide_border=false" />
-    <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=ffffff&color=1e293b&line=2563eb&point=7c3aed&area=true&area_color=93c5fd&hide_border=false" alt="Activity Graph" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=starfollowme&bg_color=ffffff&color=1e293b&line=2563eb&point=7c3aed&area=true&area_color=93c5fd&hide_border=false" alt="Activity Graph" />
   </picture>
 </div>
 

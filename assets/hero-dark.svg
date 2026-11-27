@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" width="920" height="260" fill="none">
+  <defs>
+    <linearGradient id="bgDark" x1="0" y1="0" x2="920" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 40) rotate(35) scale(420 240)">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(790 220) rotate(-25) scale(360 220)">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#38bdf8"/>
+      <stop offset="65%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="48" y1="90" x2="520" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+    <pattern id="dotsDark" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="918" height="258" rx="18" fill="url(#bgDark)" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="1" y="1" width="918" height="258" rx="18" fill="url(#dotsDark)"/>
+  <rect x="1" y="1" width="918" height="258" rx="18" fill="url(#glowBlue)"/>
+  <rect x="1" y="1" width="918" height="258" rx="18" fill="url(#glowPurple)"/>
+  <rect x="64" y="1" width="792" height="2.5" rx="1.25" fill="url(#accentLine)"/>
+
+  <!-- Status badge -->
+  <rect x="44" y="34" width="268" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <circle cx="62" cy="48" r="4.5" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="76" y="52" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12" font-weight="600">
+    Open to Collaborate &#8226; Bandung, ID
+  </text>
+
+  <!-- Main identity -->
+  <text x="44" y="114" fill="url(#nameGrad)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="35" font-weight="800" letter-spacing="-0.5">
+    Muhammad Irham Bachtiar
+  </text>
+  <text x="44" y="146" fill="#7aa2f7" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="17.5" font-weight="600">
+    Full-Stack Web &amp; Mobile Developer
+  </text>
+  <text x="44" y="172" fill="#94a3b8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13.5" font-weight="400">
+    Crafting scalable web apps and cross-platform mobile experiences.
+  </text>
+
+  <!-- Tech chips -->
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12" font-weight="600">
+    <rect x="44" y="196" width="90" height="28" rx="8" fill="#172554" stroke="#1d4ed8" stroke-opacity="0.6"/>
+    <text x="89" y="214" text-anchor="middle" fill="#93c5fd">TypeScript</text>
+
+    <rect x="142" y="196" width="74" height="28" rx="8" fill="#1e293b" stroke="#475569" stroke-opacity="0.6"/>
+    <text x="179" y="214" text-anchor="middle" fill="#e2e8f0">Next.js</text>
+
+    <rect x="224" y="196" width="76" height="28" rx="8" fill="#3b0764" stroke="#7e22ce" stroke-opacity="0.6"/>
+    <text x="262" y="214" text-anchor="middle" fill="#d8b4fe">Laravel</text>
+
+    <rect x="308" y="196" width="72" height="28" rx="8" fill="#083344" stroke="#0284c7" stroke-opacity="0.6"/>
+    <text x="344" y="214" text-anchor="middle" fill="#7dd3fc">Flutter</text>
+
+    <rect x="388" y="196" width="68" height="28" rx="8" fill="#312e81" stroke="#6366f1" stroke-opacity="0.6"/>
+    <text x="422" y="214" text-anchor="middle" fill="#c7d2fe">Kotlin</text>
+  </g>
+
+  <!-- Right code card -->
+  <rect x="572" y="34" width="304" height="192" rx="14" fill="#090d16" fill-opacity="0.92" stroke="#1e293b" stroke-width="1.2"/>
+  <rect x="572" y="34" width="304" height="32" rx="14" fill="#111827"/>
+  <rect x="572" y="54" width="304" height="12" fill="#111827"/>
+  <circle cx="592" cy="50" r="5" fill="#ef4444"/>
+  <circle cx="610" cy="50" r="5" fill="#f59e0b"/>
+  <circle cx="628" cy="50" r="5" fill="#22c55e"/>
+  <text x="724" y="54" text-anchor="middle" fill="#64748b" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="11.5">profile.ts</text>
+
+  <g font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="12.5">
+    <text x="590" y="90">
+      <tspan fill="#c084fc">const</tspan>
+      <tspan fill="#e2e8f0"> irham </tspan>
+      <tspan fill="#38bdf8">=</tspan>
+      <tspan fill="#94a3b8"> {</tspan>
+    </text>
+    <text x="590" y="114">
+      <tspan fill="#7dd3fc">  github</tspan>
+      <tspan fill="#94a3b8">: </tspan>
+      <tspan fill="#86efac">"@starfollowme"</tspan>
+      <tspan fill="#94a3b8">,</tspan>
+    </text>
+    <text x="590" y="138">
+      <tspan fill="#7dd3fc">  city</tspan>
+      <tspan fill="#94a3b8">:   </tspan>
+      <tspan fill="#86efac">"Bandung, ID"</tspan>
+      <tspan fill="#94a3b8">,</tspan>
+    </text>
+    <text x="590" y="162">
+      <tspan fill="#7dd3fc">  web</tspan>
+      <tspan fill="#94a3b8">:    </tspan>
+      <tspan fill="#fde68a">["Next.js", "Laravel"]</tspan>
+      <tspan fill="#94a3b8">,</tspan>
+    </text>
+    <text x="590" y="186">
+      <tspan fill="#7dd3fc">  mobile</tspan>
+      <tspan fill="#94a3b8">: </tspan>
+      <tspan fill="#fde68a">["Flutter", "Kotlin"]</tspan>
+    </text>
+    <text x="590" y="210">
+      <tspan fill="#94a3b8">};</tspan>
+    </text>
+  </g>
+</svg>

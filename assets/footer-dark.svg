@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 88" width="920" height="88" fill="none">
+  <defs>
+    <linearGradient id="fBgDark" x1="0" y1="0" x2="920" y2="88" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="fLineDark" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#38bdf8"/>
+      <stop offset="65%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="918" height="86" rx="16" fill="url(#fBgDark)" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="90" y="1" width="740" height="2.5" rx="1.25" fill="url(#fLineDark)"/>
+  <text x="460" y="39" text-anchor="middle" fill="#f1f5f9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="15.5" font-weight="700">
+    Thanks for stopping by! Let's build something impactful together.
+  </text>
+  <text x="460" y="63" text-anchor="middle" fill="#94a3b8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="500">
+    Muhammad Irham Bachtiar (@starfollowme) &#8226; Bandung, Indonesia
+  </text>
+</svg>

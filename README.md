@@ -29,15 +29,13 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="58%" valign="top">
       <h3>🧭 Focus Areas</h3>
       <ul>
         <li><b>Web Applications</b> — Modern UIs &amp; full-stack apps with <code>Next.js</code>, <code>React</code>, <code>TypeScript</code>, and <code>Laravel</code></li>
         <li><b>Mobile Development</b> — Cross-platform &amp; native Android apps with <code>Flutter</code> and <code>Kotlin</code></li>
         <li><b>Academic &amp; Business Systems</b> — Attendance, library, LMS, grading, and marketplace tools</li>
       </ul>
-    </td>
-    <td width="50%" valign="top">
       <h3>⚡ Quick Snapshot</h3>
       <ul>
         <li>📍 <b>Based in:</b> Bandung, Indonesia</li>
@@ -45,6 +43,11 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
         <li>📦 <b>Public Repos:</b> 22+ projects across web &amp; mobile</li>
         <li>💬 <b>Reach out:</b> <a href="mailto:irhammuhamad124@gmail.com">irhammuhamad124@gmail.com</a></li>
       </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img width="100%" src="./assets/sasuke.gif" alt="Sasuke Uchiha" />
+      <br/>
+      <sub><i>"Stay sharp, keep building." ⚡</i></sub>
     </td>
   </tr>
 </table>

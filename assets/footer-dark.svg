@@ -1,22 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 88" width="920" height="88" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 96" width="920" height="96" fill="none">
   <defs>
-    <linearGradient id="fBgDark" x1="0" y1="0" x2="920" y2="88" gradientUnits="userSpaceOnUse">
+    <linearGradient id="fBg" x1="0" y1="0" x2="920" y2="96" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0b1020"/>
-      <stop offset="100%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
-    <linearGradient id="fLineDark" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="fLine" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="35%" stop-color="#38bdf8"/>
-      <stop offset="65%" stop-color="#818cf8"/>
+      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.65"/>
+      <stop offset="70%" stop-color="#c084fc" stop-opacity="0.65"/>
       <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="fSweep" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="fClip">
+      <rect x="1" y="1" width="918" height="94" rx="16"/>
+    </clipPath>
   </defs>
-  <rect x="1" y="1" width="918" height="86" rx="16" fill="url(#fBgDark)" stroke="#1e293b" stroke-width="1.5"/>
-  <rect x="90" y="1" width="740" height="2.5" rx="1.25" fill="url(#fLineDark)"/>
-  <text x="460" y="39" text-anchor="middle" fill="#f1f5f9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="15.5" font-weight="700">
-    Thanks for stopping by! Let's build something impactful together.
+  <g clip-path="url(#fClip)">
+    <rect x="1" y="1" width="918" height="94" rx="16" fill="url(#fBg)"/>
+    <rect x="60" y="1" width="800" height="2.5" rx="1.25" fill="url(#fLine)"/>
+    <rect x="-220" y="1" width="220" height="3" fill="url(#fSweep)">
+      <animate attributeName="x" values="-220;920" dur="4.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="918" height="94" rx="16" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="460" y="42" text-anchor="middle" fill="#f8fafc" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="16" font-weight="700">
+    Thanks for stopping by! Let&#8217;s build something impactful together.
   </text>
-  <text x="460" y="63" text-anchor="middle" fill="#94a3b8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="500">
+  <text x="460" y="66" text-anchor="middle" fill="#94a3b8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="500">
     Muhammad Irham Bachtiar (@starfollowme) &#8226; Bandung, Indonesia
   </text>
 </svg>

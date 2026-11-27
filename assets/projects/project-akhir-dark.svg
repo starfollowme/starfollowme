@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 442 132" width="442" height="132" fill="none">
+  <defs>
+    <linearGradient id="cBg" x1="0" y1="0" x2="442" y2="132" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#131a29"/>
+    </linearGradient>
+    <linearGradient id="cAccent" x1="0" y1="0" x2="140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3178c6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3178c6" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cClip">
+      <rect x="1" y="1" width="440" height="130" rx="13"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cClip)">
+    <rect x="1" y="1" width="440" height="130" rx="13" fill="url(#cBg)"/>
+    <rect x="-140" y="1" width="140" height="2.5" fill="url(#cAccent)">
+      <animate attributeName="x" values="-140;442" dur="4.8s" begin="0.0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="440" height="130" rx="13" stroke="#1e293b" stroke-width="1.3"/>
+
+  <!-- Repo icon -->
+  <path d="M22 23.5A2.5 2.5 0 0 1 24.5 21h9A1.5 1.5 0 0 1 35 22.5v13a1.5 1.5 0 0 1-1.5 1.5h-9A2.5 2.5 0 0 1 22 34.5v-11Zm2.5-1a1 1 0 0 0-1 1v9.6a2.5 2.5 0 0 1 1-.2h9v-10.4h-9Zm0 11.9a1 1 0 0 0 0 2h9v-2h-9Z" fill="#38bdf8"/>
+
+  <!-- Title -->
+  <text x="44" y="33" fill="#f8fafc" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="14.5" font-weight="700">
+    project-akhir
+  </text>
+
+  <!-- Star / Year Pill -->
+  <rect x="372" y="18" width="50" height="22" rx="11" fill="#1e1b4b" stroke="#4338ca" stroke-width="1"/><text x="397" y="33" text-anchor="middle" fill="#fde68a" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11.5" font-weight="700">&#9733; 1</text>
+
+  <!-- Description -->
+  <text x="22" y="62" fill="#94a3b8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2">
+    Full-stack TypeScript capstone web application
+  </text>
+  <text x="22" y="80" fill="#94a3b8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2">
+    built with modern frontend &amp; backend architecture.
+  </text>
+
+  <!-- Footer meta -->
+  <circle cx="27" cy="107" r="5" fill="#3178c6"/>
+  <text x="38" y="111" fill="#f8fafc" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12" font-weight="600">
+    TypeScript
+  </text>
+  <rect x="338" y="96" width="84" height="20" rx="6" fill="#1e293b"/>
+  <text x="380" y="110" text-anchor="middle" fill="#93c5fd" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="10.8" font-weight="600">
+    Capstone
+  </text>
+</svg>

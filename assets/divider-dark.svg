@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 18" width="920" height="18" fill="none">
+  <defs>
+    <linearGradient id="divBase" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.65"/>
+      <stop offset="75%" stop-color="#c084fc" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="divPulse" x1="0" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="divClip">
+      <rect x="20" y="8" width="880" height="2.5" rx="1.25"/>
+    </clipPath>
+  </defs>
+  <rect x="20" y="8" width="880" height="2" rx="1" fill="url(#divBase)"/>
+  <g clip-path="url(#divClip)">
+    <rect x="-180" y="7.5" width="180" height="3" fill="url(#divPulse)">
+      <animate attributeName="x" values="-180;920" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <circle cx="460" cy="9" r="3" fill="#818cf8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

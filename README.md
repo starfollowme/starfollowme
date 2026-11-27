@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-    <img width="100%" alt="Muhammad Irham Bachtiar — Full-Stack Web & Mobile Developer" src="./assets/hero-dark.svg" />
+    <img width="100%" alt="Muhammad Irham Bachtiar — Full-Stack Web & Mobile Developer" src="./assets/hero-light.svg" />
   </picture>
 </div>
 
@@ -21,7 +21,13 @@
   <a href="mailto:irhammuhamad124@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img width="100%" alt="" src="./assets/divider-light.svg" />
+  </picture>
+</div>
 
 ## 👨‍💻 About Me
 
@@ -60,7 +66,13 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
   </picture>
 </div>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img width="100%" alt="" src="./assets/divider-light.svg" />
+  </picture>
+</div>
 
 ## 💻 Tech Stack & Tools
 
@@ -80,44 +92,38 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
   <img src="https://img.shields.io/badge/Mobile-Flutter%20%E2%80%A2%20Dart%20%E2%80%A2%20Kotlin-0284c7?style=flat-square" alt="Mobile" />
 </p>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img width="100%" alt="" src="./assets/divider-light.svg" />
+  </picture>
+</div>
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/starfollowme/project-akhir"><b>📦 project-akhir</b></a> <sub>⭐ 1</sub><br/>
-      <sub><code>TypeScript</code> • Full-stack TypeScript capstone web application.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/starfollowme/Pokedex-Flutter"><b>📱 Pokedex-Flutter</b></a> <sub>⭐ 1</sub><br/>
-      <sub><code>Flutter / Dart</code> • Mobile Pokédex client powered by REST API integration.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/starfollowme/Sistem_penilaian-sekolah"><b>🎓 Sistem_penilaian-sekolah</b></a> <sub>⭐ 1</sub><br/>
-      <sub><code>Laravel / Blade</code> • School grading and academic assessment portal.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/starfollowme/kotlin-lms"><b>📚 kotlin-lms</b></a><br/>
-      <sub><code>Kotlin</code> • Native Android Learning Management System app.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/starfollowme/laravel-absensi"><b>🕒 laravel-absensi</b></a> &amp; <a href="https://github.com/starfollowme/absen-flutter"><b>absen-flutter</b></a><br/>
-      <sub><code>Laravel</code> + <code>Flutter</code> • Integrated web &amp; mobile attendance solution.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/starfollowme/perpustakaan"><b>📖 perpustakaan</b></a> &amp; <a href="https://github.com/starfollowme/market01"><b>market01</b></a><br/>
-      <sub><code>Laravel / JS</code> • Library management and e-commerce web projects.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/starfollowme/project-akhir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project-akhir-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/project-akhir-light.svg" /><img width="48%" alt="project-akhir" src="./assets/projects/project-akhir-light.svg" /></picture></a>
+  <a href="https://github.com/starfollowme/Pokedex-Flutter"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Pokedex-Flutter-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/Pokedex-Flutter-light.svg" /><img width="48%" alt="Pokedex-Flutter" src="./assets/projects/Pokedex-Flutter-light.svg" /></picture></a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/starfollowme/Sistem_penilaian-sekolah"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Sistem_penilaian-sekolah-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/Sistem_penilaian-sekolah-light.svg" /><img width="48%" alt="Sistem_penilaian-sekolah" src="./assets/projects/Sistem_penilaian-sekolah-light.svg" /></picture></a>
+  <a href="https://github.com/starfollowme/kotlin-lms"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/kotlin-lms-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/kotlin-lms-light.svg" /><img width="48%" alt="kotlin-lms" src="./assets/projects/kotlin-lms-light.svg" /></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/starfollowme/laravel-absensi"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/laravel-absensi-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/laravel-absensi-light.svg" /><img width="48%" alt="laravel-absensi" src="./assets/projects/laravel-absensi-light.svg" /></picture></a>
+  <a href="https://github.com/starfollowme/perpustakaan"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/perpustakaan-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/perpustakaan-light.svg" /><img width="48%" alt="perpustakaan" src="./assets/projects/perpustakaan-light.svg" /></picture></a>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img width="100%" alt="" src="./assets/divider-light.svg" />
+  </picture>
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -155,7 +161,13 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
   </picture>
 </div>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img width="100%" alt="" src="./assets/divider-light.svg" />
+  </picture>
+</div>
 
 ## 💭 Dev Quote
 
@@ -167,7 +179,7 @@ Hi! I'm **Muhammad Irham Bachtiar** (`@starfollowme`), a **Full-Stack Web & Mobi
   </picture>
 </div>
 
----
+<br/>
 
 <p align="center">
   <a href="https://github.com/starfollowme"><img src="https://img.shields.io/badge/GitHub-%40starfollowme-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
